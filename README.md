@@ -1,5 +1,3 @@
-# Happy Learning
-# Learn and grow
 <header>
 
 <!--
